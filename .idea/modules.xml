@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spellingCorrector.iml" filepath="$PROJECT_DIR$/spellingCorrector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spelltestfiles/spelltestfiles.iml" filepath="$PROJECT_DIR$/spelltestfiles/spelltestfiles.iml" />
+    </modules>
+  </component>
+</project>
